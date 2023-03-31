@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
+
+
+
+
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.navbar-brand img {
+    width: 120px;
+
+
+}
+
+.navbar-collapse {
+    justify-content: end;
+}
+
+.nav-link {
+    font-weight: 700;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #000;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #241182ff;
+    border-radius: 20px;
+
+}
+
+.card {
+    border: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+span {
+    display: block;
+    height: 5px;
+    width: 120px;
+    background-color: orange;
+    margin: auto;
+}
+
+.category {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+
+.footer-item {
+    display: flex;
+
+
+}
+
+.col-1-3 h3 {}
+
+.col-1-3 p {}
